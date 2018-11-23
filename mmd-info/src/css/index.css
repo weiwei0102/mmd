@@ -1,0 +1,21 @@
+.scroll-top {
+	top: 54px;
+}
+
+.mui-btn-primary {
+	margin-right:65px;
+}
+
+.mui-table-view li {
+	height: 50px;
+	line-height: 50px;
+}
+.mui-icon-plus{
+	position: absolute;
+	right:190px;
+	bottom:5px;
+	z-index: 5;
+	font-size: 55px;
+	cursor: pointer;
+	color:#00f;
+}
